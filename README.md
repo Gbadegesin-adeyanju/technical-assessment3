@@ -19,3 +19,4 @@ python manage.py migrate
 # Runserver
 python manage.py runserver
 
+swagger link: https://blogpost-app-e4ew.onrender.com/swagger
